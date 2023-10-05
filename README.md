@@ -1,2 +1,2 @@
 # Python-Scripts
-Some random networking scripts written in python. 😉
+Some random python scripts I wrote for fun. Feel free to use. 😉
